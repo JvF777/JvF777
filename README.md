@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🔭 Atualmente trabalhando em
 
 Projetos freelance de desenvolvimento web e uma ferramenta de automação desktop para uma empresa local
